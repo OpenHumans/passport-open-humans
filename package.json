@@ -1,6 +1,6 @@
 {
   "name": "passport-open-humans",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "An Open Humans authentication strategy for Passport",
   "author": "Beau Gunderson <beau@personalgenomes.org>",
   "repository": {
