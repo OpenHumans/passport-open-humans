@@ -1,6 +1,6 @@
 {
   "name": "passport-open-humans",
-  "version": "5.0.0",
+  "version": "5.1.0",
   "description": "An Open Humans authentication strategy for Passport",
   "author": "Beau Gunderson <beau@personalgenomes.org>",
   "repository": {
@@ -24,12 +24,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://www.opensource.org/licenses/MIT"
-    }
-  ],
+  "license": "MIT",
   "keywords": [
     "passport",
     "open-humans",
