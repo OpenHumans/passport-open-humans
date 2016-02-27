@@ -12,11 +12,12 @@
   },
   "main": "./lib/passport-open-humans",
   "dependencies": {
-    "pkginfo": "0.3.x",
-    "passport-oauth": "~1.0.0"
+    "debug": "^2.2.0",
+    "passport-oauth": "~1.0.0",
+    "pkginfo": "0.3.x"
   },
   "devDependencies": {
-    "mocha": "2.2.x"
+    "mocha": "2.4.x"
   },
   "scripts": {
     "test": "mocha -R spec"
